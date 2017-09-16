@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/PetsDAO.swift"
+            timestampString = "525722375.046762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getPetList(ended:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/PetsDAO.swift"
+            timestampString = "525722407.546575"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getPetList(ended:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.PetsDAO.(getPetList (ended : (Swift.Array&lt;PetsFluxIt.Pet&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/PetsDAO.swift"
+                  timestampString = "525757651.234264"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.PetsDAO.(getPetList (ended : (Swift.Array&lt;PetsFluxIt.Pet&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/PetsDAO.swift"
+                  timestampString = "525757651.235714"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1067">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/PetsDAO.swift"
+            timestampString = "525722775.271792"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getPetList(ended:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/PetsDAO.swift"
+            timestampString = "525757670.415386"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getPetList(ended:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/PetsDAO.swift"
+            timestampString = "525757673.739475"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getPetList(ended:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.PetsDAO.(getPetList (ended : (Swift.Array&lt;PetsFluxIt.Pet&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/PetsDAO.swift"
+                  timestampString = "525757673.744208"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.PetsDAO.(getPetList (ended : (Swift.Array&lt;PetsFluxIt.Pet&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/PetsDAO.swift"
+                  timestampString = "525757673.746691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1067">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/DetailTableViewCell.swift"
+            timestampString = "525864404.390188"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "setUpImage(imageUrl:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/TagTableViewController.swift"
+            timestampString = "525895865.633839"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TagTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.TagTableViewController.tags.getter : Swift.Array&lt;PetsFluxIt.Tag&gt;"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/TagTableViewController.swift"
+                  timestampString = "525897149.506761"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.TagTableViewController.tags.setter : Swift.Array&lt;PetsFluxIt.Tag&gt;"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/TagTableViewController.swift"
+                  timestampString = "525897149.508262"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.TagTableViewController.init (style : __C.UITableViewStyle) -&gt; PetsFluxIt.TagTableViewController"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/TagTableViewController.swift"
+                  timestampString = "525897149.509635"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.TagTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PetsFluxIt.TagTableViewController"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/TagTableViewController.swift"
+                  timestampString = "525897149.510886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetsFluxIt.TagTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PetsFluxIt.TagTableViewController&gt;"
+                  moduleName = "PetsFluxIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lautaro/Documents/DH/iPhone/PetsFluxIt/PetsFluxIt/TagTableViewController.swift"
+                  timestampString = "525897149.512148"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/TagTableViewController.swift"
+            timestampString = "525896296.149181"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/TagTableViewController.swift"
+            timestampString = "525896994.140977"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetsFluxIt/DetailViewController.swift"
+            timestampString = "525898489.324288"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
